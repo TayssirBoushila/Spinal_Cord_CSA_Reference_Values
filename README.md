@@ -8,7 +8,16 @@ This project provides a web-based interface for comparing spinal cord cross-sect
 - **Method Comparison**: Displays reference values for both the consecutive nerve-based and vertebral-based methods.
 - **Confidence Intervals**: Provides confidence intervals for the mean CSA values for each method.
 
-## Installation
+  
+## How to Run the Application
+
+To access the application, use the following URL:
+
+[Spinal Cord CSA Reference Values](https://spinal-cord-csa-reference-values.streamlit.app/)
+
+This URL provides access to the deployed Streamlit application where you can interact with the tool and view the normalized cervical spinal cord CSA reference values.
+
+## Local Installation
 
 To run this project locally, follow these steps:
 
