@@ -70,14 +70,14 @@ The reference values are stored in the `merged_reference_values_csa.xlsx` file, 
   tayssirboushila3@gmail.com 
   GitHub: [TayssirBoushila](https://github.com/TayssirBoushila)
 
-- **Fathi Kallel** - *Thesis Director*  
-  National School of Electronics and Communications, University of Sfax,
-  Sfax, Tunisia,
+ - **Mouna Sahnoun** - *Co-Supervisor*  
+  Higher institute of applied sciences and technologies, University of Gafsa, Gafsa, Tunisia,
   Advanced Technologies for Medicine and Signals Lab, National Engineering School of Sfax, University of Sfax,
   Sfax, Tunisia
 
-- **Mouna Sahnoun** - *Co-Supervisor*  
-  Higher institute of applied sciences and technologies, University of Gafsa, Gafsa, Tunisia,
+- **Fathi Kallel** - *Thesis Director*  
+  National School of Electronics and Communications, University of Sfax,
+  Sfax, Tunisia,
   Advanced Technologies for Medicine and Signals Lab, National Engineering School of Sfax, University of Sfax,
   Sfax, Tunisia
 
